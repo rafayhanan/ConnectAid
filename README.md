@@ -1,5 +1,5 @@
 # ConnectAid
-A Donation platform that connects donors to people in need. Created using MERN Stack.
+A Donation platform that connects donors to people in need. Created using MERN Stack and tailwind CSS.
 
 ## Prerequisites
 
